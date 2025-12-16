@@ -37,22 +37,28 @@
 <body>  
     <main>
         <header class="header">
-            <img src="assets/img/my-photo.png" alt="foto do Luiz Fernando" class="photo">
-            <h1 class="title">Olá, <br>eu sou Luiz Fernando</h1>
+            <img src="/assets/img/my-photo.png" alt="foto de perfil" class="photo " id="profile.photo">
+
+            <h1 class="title">Olá, <br>eu sou <span id="profile.name">carregando...</span></h1>
+
             <div class="information">
                 <p class="job">
-                    <a href="https://www.linkedin.com/in/luiz-bucioli-259169373/" target="_blank"><i class="fa-solid fa-user"></i>Junior Developer</a>
+                    <i class="fa-solid fa-user"></i>
+                    <a href="https://www.linkedin.com/in/luiz-bucioli-259169373/" target="_blank" id="profile.job">Loading...</a>
                 </p>
-                <p class="location">
-                    <i class="fa-solid fa-location-dot"></i>São Paulo - BR
+                <p class="location" >
+                    <i class="fa-solid fa-location-dot"></i><span id="profile.location">carregando...</span>
                 </p>
                 <p class="phone">
-                    <a href="tel:(19) 99999 9999"><i class="fa-brands fa-whatsapp"></i>(19) 99999 9999</a>
+                    <i class="fa-brands fa-whatsapp"></i>
+                    <a href="tel:(19) 99999 9999" id="profile.phone"><span>carregando...</span></a>
                 </p>
-                <p class="gmail">
-                    <a href="mailto:ex@gmail.com"><i class="fa-solid fa-envelope"></i>ex@gmail.com</a>
+                <p class="email">
+                    <i class="fa-solid fa-envelope"></i>
+                    <a href="mailto:ex@gmail.com" id="profile.email"><span>carregando...@gmail.com</span></a>
                 </p>
             </div>
+
         </header>
 
         <section class="acordeon">
@@ -144,12 +150,10 @@
 
                     <section class="personal">
                         <h3>Habilidades pessoais:</h3>
-                        <ul>
-                            <li>Facilidade com tarefas práticas</li>
-                            <li>Organização</li>
-                            <li>Trabalho em equipe</li>
-                            <li>Comunicação</li>
-                            <li>Flexibilidade</li>
+                        <ul id="profile.skills.softSkills">
+                            <li>carregando...</li>
+                            <li>carregando...</li>
+                            <li>carregando...</li>
                         </ul>
                     </section>
                 </div>
@@ -158,6 +162,7 @@
     </main>
 
     <script src="/assets/js/acordeon.js"></script>
-    
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 </html>
