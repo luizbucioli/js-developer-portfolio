@@ -6,7 +6,7 @@
   "phone": "(19) 99266-8194",
   "email": "luizbuciolidev10@gmail.com",
   "skills": {
-    " ": [
+    "hardSkills": [
       {
         "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/luizbucioli/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
@@ -33,7 +33,8 @@
     ]
   },
   "languages": [
-    "Português BR"
+    "Português BR",
+    "Inglês (intermediário)"
   ],
   "portfolio": [
     {
