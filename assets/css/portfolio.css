@@ -34,3 +34,47 @@
     display: inline-block;
     margin-right: .5rem;
 }
+@media only screen and (max-width: 600px){
+
+    .portfolio li h3, .portfolio li h3.github::before{
+        font-size: 1rem;
+    }
+
+    .portfolio li h3.github::before{
+    content: '';
+    width: 2.125rem;
+    height: 2.125rem;
+    background-image: url('../img/github.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    margin-right: .5rem;
+    }
+
+    .portfolio li a{
+        font-size: 0.8rem;
+    }
+}
+
+@media only screen and (max-width: 425px){
+
+    .portfolio li h3, .portfolio li h3.github::before{
+        font-size: 0.9rem;
+    }
+
+    .portfolio li h3.github::before{
+    content: '';
+    width: 2.8rem;
+    height: 2.8rem;
+    background-image: url('../img/github.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    margin-right: .5rem;
+    }
+
+    .portfolio li a{
+        font-size: 0.8rem;
+    }
+
+}
