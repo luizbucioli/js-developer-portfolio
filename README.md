@@ -1,6 +1,6 @@
 # JS Developer Portfolio
 
-![Capa do Projeto](assets/cover.png)
+![Capa do Projeto](./assets/cover.png)
 
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)](https://github.com/luizbucioli/js-developer-portfolio)
 [![Licença](https://img.shields.io/badge/licença-MIT-green)](LICENSE)
@@ -78,16 +78,6 @@ js-developer-portfolio/
 
 ---
 
-## 💡 Possíveis Melhorias Futuras
-
-* Adicionar animações suaves e transições com CSS ou JS.
-* Implementar carregamento dinâmico de dados via JSON/Fetch API.
-* Separar seções em componentes reutilizáveis.
-* Testes automatizados de regressão visual com ferramentas como Playwright.
-* Otimização de SEO, performance e acessibilidade.
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença **MIT** — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -98,9 +88,3 @@ Este projeto está sob a licença **MIT** — veja o arquivo [LICENSE](LICENSE) 
 
 Desenvolvido por **Luiz Bucioli** —
 🔗 [https://github.com/luizbucioli](https://github.com/luizbucioli)
-
----
-
-```
-::contentReference[oaicite:0]{index=0}
-```
