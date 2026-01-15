@@ -1,7 +1,5 @@
 # JS Developer Portfolio
 
-![Capa do Projeto](./assets/cover.png)
-
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)](https://github.com/luizbucioli/js-developer-portfolio)
 [![Licença](https://img.shields.io/badge/licença-MIT-green)](LICENSE)
 [![Versão](https://img.shields.io/badge/version-1.0.0-yellow)]()
