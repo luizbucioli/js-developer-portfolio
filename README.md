@@ -1,7 +1,7 @@
 # JS Developer Portfolio
 
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)](https://github.com/luizbucioli/js-developer-portfolio)
-[![Licença](https://img.shields.io/badge/licença-MIT-green)](LICENSE)
+[![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-success?style=flat)](https://github.com/luizbucioli/js-developer-portfolio)
+[![Licença](https://img.shields.io/badge/licença-MIT-blue)](LICENSE)
 [![Versão](https://img.shields.io/badge/version-1.0.0-yellow)]()
 [![Deploy](https://img.shields.io/badge/deploy-GitHub%20Pages-blueviolet)](https://luizbucioli.github.io/js-developer-portfolio/)
 
