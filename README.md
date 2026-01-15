@@ -33,11 +33,11 @@ Acesse a versão hospedada:
 
 ## 🧩 Funcionalidades Principais
 
-- 📌 Página inicial com apresentação pessoal
-- 📌 Seção de projetos e/ou experiências
-- 📌 Links para redes sociais e contato
-- 📌 Layout responsivo em dispositivos móveis
-- 📌 Navegação intuitiva sem frameworks pesados
+- Página inicial com apresentação pessoal
+- Seção de projetos e/ou experiências
+- Links para redes sociais e contato
+- Layout responsivo em dispositivos móveis
+- Navegação intuitiva sem frameworks pesados
 
 ---
 
